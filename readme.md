@@ -43,4 +43,4 @@ public class Hello implements Serializable {
 #### 进阶，agent监控
 
 利用jdk1.5 和 1.6提供的 `ClassFileTransformer` 和 `Instrumentation` 进行监控.
-可深入学习 `ClassLoader` 的加载，了解ASM在学习jvm上有一丁点优势.
+可深入学习 `ClassLoader` 的加载，了解ASM在学习 `深入了解java虚拟机` 第6章-第9章。事倍功半
